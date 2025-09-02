@@ -1,0 +1,12 @@
+---
+title: "Shopping List for my beautiful lovely partner!!"
+author: "Njoki (aka Honey)"
+date: "2025-08-02"
+date-modified: "`r format(Sys.Date(), '%A, %d %B %Y')`"
+format: html
+editor: visual
+---
+
+# Intro
+
+This document illu
